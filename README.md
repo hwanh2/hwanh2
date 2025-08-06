@@ -3,42 +3,49 @@
 - Email: ymkim2353@gmail.com
 - Blog: https://hwanheee.tistory.com
 
-
   Tech Stacks
   ---
+  
   <h3>Language & Framework</h3>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img alt="Python" src ="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Django" src ="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
+  <p>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  </p>
+  
   <h3>Database</h3>
-  <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=Redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-%23006400?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=006400">
-  <h3>other</h3>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img alt="RabbitMQ" src ="https://img.shields.io/badge/RabbitMQ-FF6600?&style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
-  <img alt="Celery" src ="https://img.shields.io/badge/Celery-37814A?&style=for-the-badge&logo=Celery&logoColor=white"/>
-  <img alt="GithubActions" src ="https://img.shields.io/badge/GithubActions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
-  <img alt="AmazonAWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-  <img alt="Nginx" src ="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=Traefik%20Proxy&logoColor=white">
-  <img alt="Grafana" src ="https://img.shields.io/badge/Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white"/>
-  <img alt="Prometheus" src ="https://img.shields.io/badge/Prometheus-E6522C?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loki-%237c3aed?style=for-the-badge&logo=grafana&logoColor=white&labelColor=7c3aed&color=7c3aed">
-  <img src="https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=prometheus&logoColor=white">
+  <p>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20S3-006400?style=for-the-badge&logo=amazons3&logoColor=white">
+  </p>
+  
+  <h3>Other</h3>
+  <p>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+    <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
+    <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+    <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
+    <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+    <img src="https://img.shields.io/badge/loki-7c3aed?style=for-the-badge&logo=grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/promtail-FFA500?style=for-the-badge&logo=prometheus&logoColor=white">
+  </p>
+  
+  <br>
+  
+  Projects (Record)
+  ---
+  
+  - **[티타임즈 X 실리콘벨리 테커SW부트캠프]** 2024 Techeer Winter BootCamp 1등 – DevSketch (2024.12 ~ 2025.02)  
+  - **[티타임즈 X 실리콘벨리 테커SW부트캠프]** 2025 Techeer Summer BootCamp 1등 – Morph (2025.07 ~ 2025.08)
 
-  </div>
-</div>
 <br>
-
-Projects(Record)
----
-- [티타임즈 X 실리콘벨리 테커SW부트캠프] 2024 Techeer Winter BootCamp 1등 - DevSketch (2024.12 ~ 2025.02)
-- [티타임즈 X 실리콘벨리 테커SW부트캠프] 2025 Techeer Summer BootCamp 1등 - Morph (2025.07 ~ 2025.08)
-
 <hr>
-
 
 <div>
   

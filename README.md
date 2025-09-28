@@ -17,6 +17,7 @@
   <h3>Database</h3>
   <p>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon%20S3-006400?style=for-the-badge&logo=amazons3&logoColor=white">
   </p>
@@ -28,6 +29,7 @@
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
     <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
     <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
@@ -43,6 +45,7 @@
   
   - **[티타임즈 X 실리콘벨리 테커SW부트캠프]** 2024 Techeer Winter BootCamp 1등 – DevSketch (2024.12 ~ 2025.02)  
   - **[티타임즈 X 실리콘벨리 테커SW부트캠프]** 2025 Techeer Summer BootCamp 1등 – Morph (2025.07 ~ 2025.08)
+  - 2025 제 21회 한성공학경진대회 동상 - 한성길라잡이 (2025.09.26)
 
 <br>
 <hr>

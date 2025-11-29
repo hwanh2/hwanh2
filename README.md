@@ -28,14 +28,8 @@
     <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
     <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-    <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-    <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white">
     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
     <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-    <img src="https://img.shields.io/badge/loki-7c3aed?style=for-the-badge&logo=grafana&logoColor=white">
-    <img src="https://img.shields.io/badge/promtail-FFA500?style=for-the-badge&logo=prometheus&logoColor=white">
   </p>
   
   <br>
@@ -53,7 +47,4 @@
 <div>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan_h2)](https://solved.ac/hwan_h2)
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwanh2&layout=compact&theme=default&title_color=0052a3" alt="Top Languages">
-<img src="https://github-readme-stats.vercel.app/api?username=hwanh2&show_icons=true&theme=default&title_color=005bb5&ring_color=005bb5" alt="hwan_h2's GitHub stats">
-</div>
+

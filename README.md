@@ -32,17 +32,8 @@
     <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   </p>
   
-  <br>
-  
-  Projects (Record)
-  ---
-  
-  - **[티타임즈 X 실리콘벨리 테커SW부트캠프]** 2024 Techeer Winter BootCamp 1등 – DevSketch (2024.12 ~ 2025.02)  
-  - **[티타임즈 X 실리콘벨리 테커SW부트캠프]** 2025 Techeer Summer BootCamp 1등 – Morph (2025.07 ~ 2025.08)
-  - 2025 제 21회 한성공학경진대회 동상 - 한성길라잡이 (2025.09.26)
+  <hr>
 
-<br>
-<hr>
 
 <div>
   
